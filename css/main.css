@@ -1,12 +1,12 @@
 body {
   text-align: center;
-  background: #261e6d;
+  background: #e1fffa;
   font-family: 'Mooli', sans-serif;
 }
 
 h1 {
   font-size: 3rem;
-  color: white;
+  color:#565656;
   font-family: 'Croissant One', cursive;
   text-decoration: underline;
   text-decoration-color: #07c0e6;
@@ -15,7 +15,7 @@ h1 {
 p,
 ul li {
   color: #261e6d;
-  font-size: 1.2rem;
+  font-size: 1.35rem;
   width: 100%;
 }
 
@@ -54,7 +54,7 @@ main .content-wrapper {
 .affirmation-block {
   border-radius: 5px;
   width: 100%;
-  background: #f2f1fb;
+  background: #FBF9FB;
   /* Add a Flexbox property to make every block with text a flex parent container. */
   display: flex;
   align-items:center;
@@ -75,7 +75,7 @@ img {
 }
 
 .copyright {
-  color: #f2f1fb;
+  color: #565656;
   padding-bottom: 20px;
 }
 
